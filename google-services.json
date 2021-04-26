@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "925146684342",
+    "firebase_url": "https://casa-11631.firebaseio.com",
+    "project_id": "casa-11631",
+    "storage_bucket": "casa-11631.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925146684342:android:d901a678d12352a32fff17",
+        "android_client_info": {
+          "package_name": "com.agile.casa.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925146684342-3sqdavpja6ggj9c5shl6kf0im413j8o3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXDbF9EnR6Gwukq2vYKr-zbc6jyZRrQ9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925146684342-3sqdavpja6ggj9c5shl6kf0im413j8o3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
